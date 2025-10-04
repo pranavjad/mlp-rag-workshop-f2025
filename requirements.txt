@@ -1,0 +1,9 @@
+semantic-text-splitter
+sentence-transformers
+torch
+chromadb
+google-genai
+rank-bm25
+fastapi
+uvicorn
+python-dotenv
